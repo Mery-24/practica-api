@@ -3,7 +3,7 @@
 Esta es una aplicación de calculadora de divisas simple desarrollada en Python utilizando POO.
 
 **Asignatura:** Lenguaje de Programación
-**TSU:** Almacenamiento en la Nube
+**TSU:** Servicio en la Nube
 **Nombres:** María América
 **Apellidos:** Rivera Santos
 
